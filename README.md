@@ -11,7 +11,7 @@ A curated collection of authoritative technical books, practical manuals, cheat 
 
 ---
 
-## 🌟 Overview
+## Overview
 
 Navigating the vast landscape of data science and artificial intelligence requires structured, reliable learning resources. This repository serves as an organized personal and community reference library designed for developers, data scientists, and students at all levels.
 
@@ -22,7 +22,7 @@ Key highlights:
 
 ---
 
-## 📚 Library Catalog Matrix
+## Library Catalog Matrix
 
 | Category | Topics Covered | Key Works & Resources |
 | :--- | :--- | :--- |
@@ -36,7 +36,7 @@ Key highlights:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Cloning the Repository
 
@@ -59,7 +59,7 @@ git checkout main
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 books/
@@ -77,7 +77,7 @@ books/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, resource recommendations, and updated roadmaps are welcome!
 1. Fork the repository.
@@ -88,7 +88,8 @@ Contributions, resource recommendations, and updated roadmaps are welcome!
 
 ---
 
-## 📜 License
+## License
 
 The curation structure and utility scripts in this repository are licensed under the [MIT License](LICENSE).
 Individual book copyrights remain with their respective authors and publishers.
+

@@ -2,8 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Category: Books & Guides](https://img.shields.io/badge/Category-Books%20%26%20Reference-purple.svg)](#)
-[![Focus: Data Science & AI](https://img.shields.io/badge/Domain-Data%20Science%20%7C%20AI%20%7C%20Python-orange.svg)](#)
-[![Format: PDF](https://img.shields.io/badge/Format-PDF%20%26%20Cheat%20Sheets-critical.svg)](#)
+[![Topic: Data Science & AI](https://img.shields.io/badge/Topic-Data_Science_%26_AI-orange.svg)](#)
+[![Format: PDF Books](https://img.shields.io/badge/Format-PDF_Books-critical.svg)](#)
 
 English | [فارسی](README_FA.md)
 

@@ -2,10 +2,10 @@
 
 # کتابخانه دیجیتال علم داده و برنامه‌نویسی (Books)
 
-[![License: MIT](https://img.shields.io/badge/لایسنس-MIT-blue.svg)](LICENSE)
-[![Category: Books & Guides](https://img.shields.io/badge/دسته‌بندی-کتاب‌ها%20و%20منابع-purple.svg)](#)
-[![Focus: Data Science & AI](https://img.shields.io/badge/حوزه-علم%20داده%20%7C%20هوش%20مصنوعی%20%7C%20پایتون-orange.svg)](#)
-[![Format: PDF](https://img.shields.io/badge/فرمت-کتاب‌های%20PDF%20و%20چیت‌شیت-critical.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Category: Books & Guides](https://img.shields.io/badge/Category-Books%20%26%20Reference-purple.svg)](#)
+[![Topic: Data Science & AI](https://img.shields.io/badge/Topic-Data_Science_%26_AI-orange.svg)](#)
+[![Format: PDF Books](https://img.shields.io/badge/Format-PDF_Books-critical.svg)](#)
 
 [English](README.md) | فارسی
 
@@ -82,11 +82,12 @@ books/
 ## مشارکت
 
 پیشنهاد افزودن کتاب‌های باکیفیت و به‌روزرسانی نقشه‌های راهواره مورد استقبال است!
-۱. مخزن را فورک کنید.
-۲. یک برنچ جدید بسازید (`git checkout -b suggest/new-resource`).
-۳. پیشنهاد خود را کامیت کنید (`git commit -m 'Add recommendation for Reinforcement Learning'`).
-۴. تغییرات را پوش کنید (`git push origin suggest/new-resource`).
-۵. یک پول ریکوئست (Pull Request) باز کنید.
+
+1. مخزن را فورک کنید.<br>
+2. یک شاخه جدید بسازید (`git checkout -b suggest/new-resource`).<br>
+3. تغییرات خود را کامیت کنید (`git commit -m "Add new feature"`).<br>
+4. تغییرات را به شاخه خود پوش نمایید (`git push origin suggest/new-resource`).<br>
+5. یک Pull Request باز کنید.
 
 ---
 
